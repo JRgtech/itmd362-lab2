@@ -14,16 +14,23 @@ p {
   border-width: 5px;
 }
 
-input[for="userInput"] {
+input[type="email"] {
   background-color: yellow;
   color: black;
 }
 
-.button {
-  transition-duration: 0.3s;
+input[type="phone"] {
+  background-color: yellow;
+  color: black;
 }
 
-submit.button:hover {
+input[type="date"] {
+  background-color: yellow;
+  color: black;
+}
+
+input[type="submit"].button:hover {
+  transition-duration: 0.3s;
   background-color: grey;
   color: black;
   text-align: center;
