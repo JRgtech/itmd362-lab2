@@ -29,8 +29,10 @@ input[type="date"] {
   color: black;
 }
 
-input[type="submit".button:hover] {
+.button:hover {
   transition-duration: 0.3s;
+}
+.button {
   background-color: grey;
   color: black;
   text-align: center;
