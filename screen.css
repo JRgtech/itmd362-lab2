@@ -29,7 +29,7 @@ input[type="date"] {
   color: black;
 }
 
-submit.button:hover {
+input[type="submit".button:hover] {
   transition-duration: 0.3s;
   background-color: grey;
   color: black;
