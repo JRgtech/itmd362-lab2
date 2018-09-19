@@ -29,11 +29,11 @@ input[type="date"] {
   color: black;
 }
 
-sub.button:hover {
+sub:hover {
   transition-duration: 0.3s;
 }
 
-sub.button {
+sub {
   background-color: grey;
   color: black;
   text-align: center;
