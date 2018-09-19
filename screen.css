@@ -1,5 +1,5 @@
 body {
-  background-color: red;
+  background-color: lightblue;
 }
 
 h1 {
@@ -14,17 +14,17 @@ p {
   border-width: 5px;
 }
 
-input[type=email] {
+input[for="userInput"] {
   background-color: yellow;
   color: black;
 }
 
-input[type=phone] {
-  background-color: yellow;
-  color: black;
+.button {
+  transition-duration: 0.3s;
 }
 
-input[type=dob] {
-  background-color: yellow;
+submit.button:hover {
+  background-color: grey;
   color: black;
+  text-align: center;
 }
