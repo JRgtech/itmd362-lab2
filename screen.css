@@ -18,24 +18,28 @@ input[type="name"] {
   background-color: yellow;
   color: black;
   text-align: center;
+  margin: auto;
 }
 
 input[type="email"] {
   background-color: yellow;
   color: black;
   text-align: center;
+  margin: auto;
 }
 
 input[type="phone"] {
   background-color: yellow;
   color: black;
   text-align: center;
+  margin: auto;
 }
 
 input[type="date"] {
   background-color: yellow;
   color: black;
   text-align: center;
+  margin: auto;
 }
 
 button:hover {
@@ -43,4 +47,5 @@ button:hover {
   background-color: grey;
   color: black;
   text-align: center;
+  margin: auto;
 }
