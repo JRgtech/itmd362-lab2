@@ -12,14 +12,17 @@ h1 {
 
 p {
   text-align: center;
+  font-weight: bold;
+}
+
+form {
+  text-align: center;
 }
 
 input[type="name"] {
   background-color: yellow;
   color: black;
   text-align: center;
-  margin-left: 50%;
-  margin-right: 50%;
   margin: auto;
 }
 
@@ -27,8 +30,6 @@ input[type="email"] {
   background-color: yellow;
   color: black;
   text-align: center;
-  margin-left: 50%;
-  margin-right: 50%;
   margin: auto;
 }
 
@@ -36,8 +37,6 @@ input[type="phone"] {
   background-color: yellow;
   color: black;
   text-align: center;
-  margin-left: 50%;
-  margin-right: 50%;
   margin: auto;
 }
 
@@ -45,8 +44,6 @@ input[type="date"] {
   background-color: yellow;
   color: black;
   text-align: center;
-  margin-left: 50%;
-  margin-right: 50%;
   margin: auto;
 }
 
@@ -55,7 +52,5 @@ button:hover {
   background-color: grey;
   color: black;
   text-align: center;
-  margin-left: 50%;
-  margin-right: 50%;
   margin: auto;
 }
